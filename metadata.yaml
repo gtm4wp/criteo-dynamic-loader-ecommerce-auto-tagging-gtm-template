@@ -1,5 +1,5 @@
 homepage: "https://www.jabjab.hu"
 documentation: "https://www.jabjab.hu"
 versions:
-  - sha: xxx
+  - sha: ce2b89a2be133e110caa5802133df803e3bcf4fe
     changeNotes: Initial release
