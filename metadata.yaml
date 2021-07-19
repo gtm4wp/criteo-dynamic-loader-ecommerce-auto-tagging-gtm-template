@@ -1,0 +1,5 @@
+homepage: "https://www.jabjab.hu"
+documentation: "https://www.jabjab.hu"
+versions:
+  - sha: xxx
+    changeNotes: Initial release
